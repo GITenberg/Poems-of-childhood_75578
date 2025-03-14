@@ -1,0 +1,74 @@
+_repo: Poems-of-childhood_75578
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Parrish, Maxfield
+    birthdate: 1870
+    deathdate: 1966
+    gutenberg_agent_id: '9605'
+    url: http://www.gutenberg.org/2009/agents/9605
+    wikipedia: https://en.wikipedia.org/wiki/Maxfield_Parrish
+creator:
+  author:
+    agent_name: Field, Eugene
+    birthdate: 1850
+    deathdate: 1895
+    gutenberg_agent_id: '238'
+    url: http://www.gutenberg.org/2009/agents/238
+    wikipedia: https://en.wikipedia.org/wiki/Eugene_Field
+description: 'Eugene Field''s daughter Mary French Field Englar (1876-1949) does not
+  appear to be the author of the earlier poetry collection "With trumpet and drum"
+  (included here) but apparently owned its copyright. From the Catalog of Copyright
+  Entries from the Library of Congress Copyright Office, 1920: "With trumpet and drum.
+  [Copyright] Mary French Field Englar, Kenilworth, Ill., as the child of the deceased
+  author, in renewal for 28 years. Renewal no. 15723, Mar. 23, 1920. Original entry,
+  Nov. 17, 1892, no. 46783."'
+gutenberg_issued: '2025-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75578'
+language: en
+pgterms:marc904: https://archive.org/details/poemsofchildhoodfiel/page/n15/mode/2up
+pgterms:marc905: 20240922082157field
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, American'
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PZ'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: With trumpet and drum -- Krinken -- The naughty doll -- Nightfall
+  in Dordrecht -- Intry-Mintry -- Pittypat and Tippytoe -- Balow, my Bonnie -- The
+  Hawthorne children -- Little blue pigeon (Japanese Lullaby) -- The lyttel boy --
+  Teeny-Weeny -- Nellie -- Norse lullaby -- The sugar-plum tree -- Grandma's prayer
+  -- Some time -- The fire-hangbird's nest -- Buttercup, poppy, forget-me-not -- Gold
+  and love for dearie -- Peace of Christmas-time -- To a little brook -- Croodlin'
+  Doo (Cooing Dove) -- Little mistress Sans-Merci -- Long ago -- In the firelight
+  -- Cobbler and stork (Armenian folk-lore) -- "Lollyby, lolly, lollyby" -- Lizzie
+  and the baby -- At the door -- Hugo's "Child at play" -- Wynken, Blynken and Nod
+  (Dutch lullaby) -- Hi-spy -- Little Boy Blue -- Father's letter -- Jewish lullaby
+  -- Our whippings -- The Armenian mother (folk song) -- Heigho, my dearie -- To a
+  usurper -- The bell-flower tree -- Fairy and child -- the grandsire -- Hushaby,
+  sweet my own -- Child and mother -- Medieval eventide song -- The little peach --
+  Armenian lullaby -- Christmas treasures -- Oh, little child -- Ganderfeather's gift
+  -- Bambino (Sicilian folk-song) -- Little Homer's slate -- The Rock-a-By Lady --
+  "Booh!" -- Garden and cradle -- The night wind -- Kissing time -- Jest 'fore Christmas
+  -- Beard and baby -- The Dinkey-Bird -- The drum -- The dead babe -- Happy Household
+  -- So, so, rock-a-by so! -- The song of Luddy-Dud -- The duel -- Good-Children street
+  -- The delectable ballad of the Waller Lot -- The Fly-Away Horse -- The Stork --
+  The Bottle Tree -- Googly-goo -- The bench-legged fyce -- Little Miss Brag -- The
+  humming-top -- Lady Button-Eyes -- The ride to Bumpville -- The brook -- Picnic-time
+  -- Shuffle-Shoon and Amber-Locks -- The Shut-Eye train -- Little-Oh-Dear -- Swing
+  high and swing low -- When I was a boy -- At play -- A valentine -- Little All-Aloney
+  -- The cunnin' little thing -- the doll's wooing -- Inscription for my little son's
+  silver plate -- Seein' things -- Fisherman Jim's kids -- "Fiddle-dee-dee" -- Over
+  the hills and far away.
+title: Poems of childhood
+url: http://www.gutenberg.org/ebooks/75578
