@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '9605'
     url: http://www.gutenberg.org/2009/agents/9605
     wikipedia: https://en.wikipedia.org/wiki/Maxfield_Parrish
+covers:
+- cover_type: archival
+  image_path: 75578-h/images/cover.jpg
 creator:
   author:
     agent_name: Field, Eugene
@@ -23,6 +26,8 @@ description: 'Eugene Field''s daughter Mary French Field Englar (1876-1949) does
   [Copyright] Mary French Field Englar, Kenilworth, Ill., as the child of the deceased
   author, in renewal for 28 years. Renewal no. 15723, Mar. 23, 1920. Original entry,
   Nov. 17, 1892, no. 46783."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75578#Poems-of-childhood
 gutenberg_issued: '2025-03-10'
 gutenberg_type: Text
 identifiers:
